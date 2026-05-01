@@ -28,5 +28,5 @@ git push origin master
 ## Start
 
 ```bash
-uv main.py
+uv run main.py
 ```
